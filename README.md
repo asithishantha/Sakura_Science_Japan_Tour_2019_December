@@ -6,6 +6,6 @@ Editing.............
   <br />
 
 
-<img src="https://github.com/asithishantha/Sakura_Science_Japan_Tour_2019_December/blob/main/iot%20gif.gif"  width="600px" height="338px" >
+<img src="https://github.com/asithishantha/Sakura_Science_Japan_Tour_2019_December/blob/main/iot%20gif.gif"  width="350px" height="197px" >
   <br />
 
