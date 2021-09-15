@@ -1,17 +1,17 @@
 # Sakura_Science_Japan_Tour_2019_December      
 
-Sakura Science Sri Lanka Team Members
+#  |    Sakura Science Sri Lanka Team Members  <br />  <br />
 
-Kushini Hathurusinghe
-Ravindu Sankha
-Miyuru Kularathne 
-Dhaneja Meegoda
-Dhanika Ponnamperuma
-Senesh Deshan
-Nelushi Amaya
-Asith Ishantha
+|  Kushini Hathurusinghe  <br />
+|  Ravindu Sankha  <br />
+|  Miyuru Kularathne   <br />
+|  Dhaneja Meegoda  <br />
+|  Dhanika Ponnamperuma  <br />
+|  Senesh Deshan  <br />
+|  Nelushi Amaya  <br />
+|  Asith Ishantha  <br />
 
-Schedule: Kyutech-Japan Cultural and IOT Workshop Program (Dec 10 - Dec 15, 2019) 
+#  |   Schedule: Kyutech-Japan Cultural and IOT Workshop Program (Dec 10 - Dec 15, 2019) 
 
 
 Day 1 | 10 December Tue 
@@ -63,7 +63,7 @@ Day 5 |  14 Dec Sat
 12:30-13:00  |  Move to Hotel, pick up baggages 
 13.00-15.00 | Move to Fukuoka (Bus 13:25-14:28) 
 15.00      |      Hotel Check in Hakata, Fukuoka 
-15:00-18.00 | Free Time (Visit Kokura castle, <br />Shinkansen experience from Hakata to Kokura)
+15:00-18.00 | Free Time (Visit Kokura castle, <br />Shinkansen experience <br />from Hakata to Kokura)
 18 00-19 30 | Dinner Hakata, Fukuoka 
 19.30       |     Go back to the hotel
 
