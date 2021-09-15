@@ -41,12 +41,10 @@ Day 2 |  11 Dec Wed
          Go back to the hotel
  <br />
    
- | :--- | ---: | 
-          Go back to the hotel
-          
-          
-   Go back to the hotel
- <br />
+19.00       |  Dinner  & Go back to the hotel
+         Go back to the hotel
+ 
+<br />
 
 <br />
 
