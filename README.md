@@ -35,7 +35,8 @@ Day 2 |  11 Dec Wed
 17.00-19.00 | Move to Iizuka (Bus 17:47-18:49) 
 19.00 -     |  Dinner  & Go back to the hotel
   <br />
-   |  Dinner  & Go back to the hotel
+
+Dinner  & Go back to the hotel
 
 Day 3 |  12 Dec Tur 
 | :--- | ---: | 
