@@ -46,8 +46,8 @@ Photo Courtsey: Miyuru Kularathne
 
                            
  <br />
-   
--------- | --------
+ 
+Day 1 | 10 December Tue   
 | :--- | ---: | 
 7:30  | Arrive at Narita Airport (JL7076) 
 9.00-12:00 | Move to Musasikosugi (Hotel) 
@@ -57,7 +57,7 @@ Photo Courtsey: Miyuru Kularathne
  20 00- |      Go back to the hotel
 <br />
 
- Day 1 | 10 December Tue 
+-------- | --------
 | :--- | ---: | 
 <img src="https://photos.templatetoaster.info/u72ckh.jpg" > | <img src="https://photos.templatetoaster.info/2phpfx.jpg" > 
 Lunch | One day internship @Metatechno 
