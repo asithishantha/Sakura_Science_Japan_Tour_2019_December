@@ -16,18 +16,22 @@
 <h3 align="center"> 
  Sakura Science Sri Lanka Represented Team  Members <br />
 </h3>
-                                                      
+                  
+<h4 align="center"> 
+Kushini Hathurusinghe    <br />
+Ravindu Sankha      <br />
+Miyuru Kularathne    <br />                                                               
+Dhaneja Meegoda      <br />                                                               
+Dhanika Ponnamperuma    <br />                                                            
+Senesh Deshan       <br />                                                                 
+Nelushi Amaya     <br />                                                             
+Asith Ishantha Madurawala        <br />                                                         
+</h4>
+       
                    	
-                                          
+                                  
                                                          
-                                                              Kushini Hathurusinghe  
-                                                                 Ravindu Sankha    
-                                                               Miyuru Kularathne  
-                                                                Dhaneja Meegoda    
-                                                              Dhanika Ponnamperuma  
-                                                                  Senesh Deshan     
-                                                                 Nelushi Amaya   
-                                                            Asith Ishantha Madurawala
+                                                              
    
  <br />
  
