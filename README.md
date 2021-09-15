@@ -29,7 +29,7 @@
 <br />
 
 
- . 
+ | :--- | ---: | 
          Go back to the hotel
  <br />
    
