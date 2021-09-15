@@ -43,6 +43,7 @@ Day 2 |  11 Dec Wed
    
 19.00       |  Dinner  & Go back to the hotel
          Go back to the hotel
+ <br />
  
 <br />
 
