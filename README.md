@@ -47,7 +47,7 @@ Photo Courtsey: Miyuru Kularathne
                            
  <br />
    
- Day 1 | 10 December Tue 
+-------- | --------
 | :--- | ---: | 
 7:30  | Arrive at Narita Airport (JL7076) 
 9.00-12:00 | Move to Musasikosugi (Hotel) 
