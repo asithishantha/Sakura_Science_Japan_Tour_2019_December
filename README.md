@@ -126,7 +126,7 @@ Day 5 |  14 Dec Sat
  6:00     |    Move to Fukuoka airport 
  6:30     |    Air Check-in 
  7.20-9:00 |  Move to Narita airport (JL3052) 
- 11:20-   |    Depart from Nanta Airport (JL7077)
+ 11:20-   |    Depart from Narita Airport (JL7077)
 
               
 
