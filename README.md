@@ -23,12 +23,13 @@ Day 1 10 December Tue
 13.00-17.00 |  one day internship @Metatechno 
 18.00-20 00 |  Welcome Dinner 
 20 00- |      Go back to the hotel
-| :--- | ---: | 
+
 
 Day 2 11 Dec Wed 
 
 
 7:30 | Move to Haneda Airport 
+| :--- | ---: | 
 8:30 | Air Check-in 
 9:00-10:00 |  Move to Miraikan 
 10.00-13:00 |  Tech experience @Miraikarn 
@@ -40,7 +41,9 @@ Day 2 11 Dec Wed
 
 
 Day 3 12 Dec Tur 
+
 9:00        |      Move to Kyutech university (Kyushu Institute of Technology)
+| :--- | ---: | 
 9:30 -12:00 | Orientation and Campus tour 
 12:00 -13.30 | Lunch
 13 30        |    IOT Workshop @Kyutech 
@@ -50,6 +53,7 @@ Day 3 12 Dec Tur
  Day 4 13 Dec Fri 
 
 9:00       |      Move to Kyutech School Bus Kyutech 
+| :--- | ---: | 
 9:30-12:00  | IOT Workshop @Kyutech 
 12.00-13:30| Lunch 
 13:30-17:00  | Workshop Presentation 
@@ -60,6 +64,7 @@ Day 3 12 Dec Tur
 Day 5 14 Dec Sat
  
 9:00      |        Move to Ito Denemon Tei 
+| :--- | ---: | 
 9:30-12:30   |   Ito Denemon Tei Tour 
 12:30-13:00  |  Move to Hotel, pick up baggages 
 13.00-15.00 | Move to Fukuoka (Bus 13:25-14:28) 
@@ -71,6 +76,7 @@ Day 5 14 Dec Sat
 Day 6 15 Dec Sun 
 
  6:00     |    Move to Fukuoka airport 
+ | :--- | ---: | 
  6:30     |    Air Check-in 
  7.20-9:00 |  Move to Narita airport (JL3052) 
  11:20-   |    Depart from Nanta Airport (JL7077)
