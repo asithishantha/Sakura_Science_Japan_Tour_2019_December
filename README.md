@@ -1,7 +1,9 @@
 # Sakura_Science_Japan_Tour_2019_December      
  <br />
                <br />
- Sakura Science Sri Lanka Team Members 
+         |  Sakura Science Sri Lanka Team Members | 
+               |   Kushini Hathurusinghe  <br />
+               
           Kushini Hathurusinghe  <br />
           Ravindu Sankha      <br />
           Miyuru Kularathne    <br />
@@ -28,10 +30,10 @@
  20 00- |      Go back to the hotel
 <br />
 
-Day 2 |  11 Dec Wed 
+<!-- Day 2 |  11 Dec Wed 
  | :--- | ---: | 
          Go back to the hotel
- <br />
+ <br /> -->
    
 
 Day 2 |  11 Dec Wed 
