@@ -19,7 +19,7 @@
                                                       
               
                                                            	
-                                           Professor Kazuaki Tanaka-Kyushu Institute of Technology https://github.com/kaz0505  
+                                           Professor Kazuaki Tanaka-Kyushu Institute of Technology (https://github.com/kaz0505)
                                                             Sameera Malawige (Cordinator)
                                                               Kushini Hathurusinghe  
                                                                  Ravindu Sankha    
