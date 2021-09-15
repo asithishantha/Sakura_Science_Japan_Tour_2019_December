@@ -58,7 +58,7 @@ Day 2 |  11 Dec Wed
 15:00-17:05 | Move to Fukuoka (JL323) 
 17.00-19.00 | Move to Iizuka (Bus 17:47-18:49) 
 19.00       |  Dinner  & Go back to the hotel
-         Go back to the hotel
+
 
 
 <br />
