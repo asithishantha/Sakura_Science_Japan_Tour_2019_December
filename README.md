@@ -1,22 +1,24 @@
 # Sakura_Science_Japan_Tour_2019_December      
  <br />
                <br />
-         |  Sakura Science Sri Lanka Team Members | 
-               |   Kushini Hathurusinghe  <br />
                
-          Kushini Hathurusinghe  <br />
-          Ravindu Sankha      <br />
-          Miyuru Kularathne    <br />
-          Dhaneja Meegoda     <br />
-          Dhanika Ponnamperuma   <br />
-          Senesh Deshan      <br />
-          Nelushi Amaya      <br />
-          Asith Ishantha     <br />
+                                                       Sakura Science Sri Lanka Team Members  
+              
+               
+                                                              Kushini Hathurusinghe  
+                                                                 Ravindu Sankha    
+                                                               Miyuru Kularathne  
+                                                                Dhaneja Meegoda    
+                                                              Dhanika Ponnamperuma  
+                                                                  Senesh Deshan     
+                                                                 Nelushi Amaya   
+                                                            Asith Ishantha Madurawala
+   
  <br />
  
  
-  <br />
-               Schedule: Kyutech-Japan Cultural and IOT Workshop Program (Dec 10 - Dec 15, 2019) 
+
+                              Schedule: Kyutech-Japan Cultural and IOT Workshop Program (Dec 10 - Dec 15, 2019) 
 
  <br />
    
