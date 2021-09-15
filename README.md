@@ -1,15 +1,15 @@
 # Sakura_Science_Japan_Tour_2019_December      
  <br />
                <br />
-         Sakura Science Sri Lanka Team Members  <br />  <br />
-             Kushini Hathurusinghe  <br />
-              Ravindu Sankha      <br />
-                  Miyuru Kularathne    <br />
-                 Dhaneja Meegoda     <br />
-                 Dhanika Ponnamperuma   <br />
-                 Senesh Deshan      <br />
-                  Nelushi Amaya      <br />
-                Asith Ishantha     <br />
+ Sakura Science Sri Lanka Team Members 
+          Kushini Hathurusinghe  <br />
+          Ravindu Sankha      <br />
+          Miyuru Kularathne    <br />
+          Dhaneja Meegoda     <br />
+          Dhanika Ponnamperuma   <br />
+          Senesh Deshan      <br />
+          Nelushi Amaya      <br />
+          Asith Ishantha     <br />
  <br />
  
  
@@ -44,7 +44,7 @@ Day 2 |  11 Dec Wed
 
 Day 3 |  12 Dec Tur 
 | :--- | ---: | 
-9:00        |    Move to Kyutech university <br /(Kyushu Institute of Technology)
+9:00        |    Move to Kyutech university <br />(Kyushu Institute of Technology)
  9:30 -12:00 | Orientation and Campus tour 
  12:00 -13.30 | Lunch
 13 30 -17:00 |    IOT Workshop @Kyutech 
