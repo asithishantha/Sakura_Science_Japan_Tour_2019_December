@@ -35,6 +35,8 @@
  <p align="center">
   <img src="https://photos.templatetoaster.info/05aaje.jpg" >
 </p> 
+Photo Courtsey: Miyuru Kularathne
+
  
   <br />
  <h3 align="center"> 
