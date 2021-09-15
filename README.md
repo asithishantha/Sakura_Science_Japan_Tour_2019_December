@@ -33,7 +33,7 @@ Day 2 |  11 Dec Wed
 13.00-14.00 | Move to Haneda Airport 
 15:00-17:05 | Move to Fukuoka (JL323) 
 17.00-19.00 | Move to Iizuka (Bus 17:47-18:49) 
-            |  Dinner  & Go back to the hotel
+              Dinner  & Go back to the hotel
   <br />
 
 Dinner  & Go back to the hotel
