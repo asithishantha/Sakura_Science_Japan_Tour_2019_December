@@ -1,7 +1,7 @@
   
 
 <h2 align="center"> 
- Sakura_Science_Japan_Tour_2019_December     <br />
+ Sakura Science Japan Tour 2019 December     <br />
   
 </h2>
 
@@ -11,9 +11,7 @@
   
 <br />
 
-         
- <br />
-               <br />
+
  
 <h3 align="center"> 
  Sakura Science Sri Lanka Team Members <br />
