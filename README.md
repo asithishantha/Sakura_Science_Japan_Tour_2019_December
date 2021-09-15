@@ -57,12 +57,12 @@ Day 1 | 10 December Tue
  20 00- |      Go back to the hotel
 <br />
 
- Arrive at Narita Airport (JL7076)  | Move to Musasikosugi (Hotel) 
+Arrive at Narita Airport (JL7076)  | Move to Musasikosugi (Hotel) 
 | :--- | ---: | 
 <img src="https://photos.templatetoaster.info/u72ckh.jpg" > | <img src="https://photos.templatetoaster.info/2phpfx.jpg" > 
-                                                       Lunch | One day internship @Metatechno 
+Lunch | One day internship @Metatechno 
 <img  src="https://photos.templatetoaster.info/9ng33b.jpg"> |   <img src="https://photos.templatetoaster.info/cmf7ca.jpg" > 
-                                             Welcome Dinner  |  Go back to the hotel
+Welcome Dinner  |  Go back to the hotel
 <img  src="https://photos.templatetoaster.info/e9ab7v.jpg"> |   <img src="https://photos.templatetoaster.info/yp3f0a.jpg" > 
 
 
