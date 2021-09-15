@@ -25,10 +25,8 @@ Day 1 | 10 December Tue
 
 
 Day 2 |  11 Dec Wed 
-
-
-7:30 | Move to Haneda Airport 
 | :--- | ---: | 
+7:30 | Move to Haneda Airport 
 8:30 | Air Check-in 
 9:00-10:00 |  Move to Miraikan 
 10.00-13:00 |  Tech experience @Miraikarn 
@@ -40,9 +38,8 @@ Day 2 |  11 Dec Wed
 
 
 Day 3 |  12 Dec Tur 
-
-9:00        |    Move to Kyutech university (Kyushu Institute of Technology)
 | :--- | ---: | 
+9:00        |    Move to Kyutech university (Kyushu Institute of Technology)
 9:30 -12:00 | Orientation and Campus tour 
 12:00 -13.30 | Lunch
 13 30 -17:00 |    IOT Workshop @Kyutech 
@@ -66,8 +63,7 @@ Day 5 |  14 Dec Sat
 12:30-13:00  |  Move to Hotel, pick up baggages 
 13.00-15.00 | Move to Fukuoka (Bus 13:25-14:28) 
 15.00      |      Hotel Check in Hakata, Fukuoka 
-15:00-18.00 | Free Time (Visit Kokura castle,
-              Shinkansen experience from Hakata to Kokura)
+15:00-18.00 | Free Time (Visit Kokura castle, <br />Shinkansen experience from Hakata to Kokura)
 18 00-19 30 | Dinner Hakata, Fukuoka 
 19.30       |     Go back to the hotel
 
