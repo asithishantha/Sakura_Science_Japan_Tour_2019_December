@@ -30,6 +30,11 @@
    
  <br />
  
+ <p align="center">
+  <img src="https://photos.templatetoaster.info/05aaje.jpg" >
+</p> 
+ 
+  <br />
  <h3 align="center"> 
    Schedule: Kyutech-Japan Cultural and IOT Workshop Program (Dec 10 - Dec 15, 2019) 
  <br />
