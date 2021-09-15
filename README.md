@@ -28,8 +28,8 @@
  20 00- |      Go back to the hotel
 <br />
 
-Day 2 |  11 Dec Wed 
- | :--- | ---: | 
+
+ . 
          Go back to the hotel
  <br />
    
