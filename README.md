@@ -18,7 +18,9 @@
 </h3>
                                                       
               
-               
+                                                           	
+                                           Professor Kazuaki Tanaka-Kyushu Institute of Technology [GitHub] 
+                                                            Sameera Malawige (Cordinator)
                                                               Kushini Hathurusinghe  
                                                                  Ravindu Sankha    
                                                                Miyuru Kularathne  
@@ -125,4 +127,9 @@ Day 5 |  14 Dec Sat
  -->
 <img src="https://github.com/asithishantha/Sakura_Science_Japan_Tour_2019_December/blob/main/iot%20gif.gif"  width="350px" height="197px" >
   <br />
+
+
+
+
+[GitHub]: https://github.com/kaz0505 
 
