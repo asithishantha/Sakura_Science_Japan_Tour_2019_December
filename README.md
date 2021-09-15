@@ -19,13 +19,9 @@ Day 1 10 December Tue
 7:30  | Arrive at Narita Airport (JL7076) 
 | :--- | ---: | 
 9.00-12:00 | Move to Musasikosugi (Hotel) 
-| :--- | ---: | 
 12.00-13:00 |  Lunch 
-| :--- | ---: | 
 13.00-17.00 |  one day internship @Metatechno 
-| :--- | ---: | 
 18.00-20 00 |  Welcome Dinner 
-| :--- | ---: | 
 20 00- |      Go back to the hotel
 | :--- | ---: | 
 
