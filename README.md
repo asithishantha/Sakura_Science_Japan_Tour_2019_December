@@ -1,8 +1,11 @@
 # Sakura_Science_Japan_Tour_2019_December      
  <br />
                <br />
-               
-                                                       Sakura Science Sri Lanka Team Members  
+ 
+<h3 align="center"> 
+ Sakura Science Sri Lanka Team Members <br />
+</h3>
+                                                      
               
                
                                                               Kushini Hathurusinghe  
@@ -16,10 +19,12 @@
    
  <br />
  
- 
+ <h3 align="center"> 
+   Schedule: Kyutech-Japan Cultural and IOT Workshop Program (Dec 10 - Dec 15, 2019) 
+ <br />
+</h3>
 
-                              Schedule: Kyutech-Japan Cultural and IOT Workshop Program (Dec 10 - Dec 15, 2019) 
-
+                           
  <br />
    
  Day 1 | 10 December Tue 
