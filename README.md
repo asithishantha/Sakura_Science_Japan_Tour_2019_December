@@ -37,19 +37,21 @@ Day 2 |  11 Dec Wed
 13.00-14.00 | Move to Haneda Airport 
 15:00-17:05 | Move to Fukuoka (JL323) 
 17.00-19.00 | Move to Iizuka (Bus 17:47-18:49) 
- 19.00       |  Dinner  & Go back to the hotel
+19.00       |  Dinner  & Go back to the hotel
  <br />
 
 <br />
- Day 3 |  12 Dec Tur 
- | :--- | ---: | 
-  9:00        |    Move to Kyutech university <br /(Kyushu Institute of Technology)
-   9:30 -12:00 | Orientation and Campus tour 
-  12:00 -13.30 | Lunch
+
+Day 3 |  12 Dec Tur 
+| :--- | ---: | 
+9:00        |    Move to Kyutech university <br /(Kyushu Institute of Technology)
+ 9:30 -12:00 | Orientation and Campus tour 
+ 12:00 -13.30 | Lunch
 13 30 -17:00 |    IOT Workshop @Kyutech 
  17:00        |    Go back to the hotel 
  <br />
-<br />
+
+
  Day 4   | 13 Dec Fri 
  | :--- | ---: |
 9:00       |      Move to Kyutech School 
@@ -58,10 +60,9 @@ Day 2 |  11 Dec Wed
  13:30-17:00  | Workshop Presentation 
  17:00      |     Go back to the hotel 
  <br />
- <br />
- <br />
+
 Day 5 |  14 Dec Sat
- | :--- | ---: | 
+| :--- | ---: | 
  9:00      |        Move to Ito Denemon Tei 
  9:30-12:30   |   Ito Denemon Tei Tour 
  12:30-13:00  |  Move to Hotel, pick up baggages 
@@ -71,8 +72,7 @@ Day 5 |  14 Dec Sat
  18 00-19 30 | Dinner Hakata, Fukuoka 
    19.30       |     Go back to the hotel
  <br />
-  <br />
-<br />
+
  Day 6 |  15 Dec Sun 
  | :--- | ---: | 
  6:00     |    Move to Fukuoka airport 
