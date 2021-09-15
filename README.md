@@ -14,12 +14,12 @@
 
  
 <h3 align="center"> 
- Sakura Science Sri Lanka Team Members <br />
+ Japanese University Professor and Sakura Science Team Members <br />
 </h3>
                                                       
               
                                                            	
-                                           Professor Kazuaki Tanaka-Kyushu Institute of Technology [GitHub] 
+                                           Professor Kazuaki Tanaka-Kyushu Institute of Technology https://github.com/kaz0505  
                                                             Sameera Malawige (Cordinator)
                                                               Kushini Hathurusinghe  
                                                                  Ravindu Sankha    
