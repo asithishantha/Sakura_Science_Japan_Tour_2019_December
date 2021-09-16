@@ -127,6 +127,12 @@ copy the following link or press the following image.
          <img src="https://photos.templatetoaster.info/4lyhnc.jpg" width="500px" height="281px">
       </a>
 </div>
+ <br />
+Please visit the sakura science repository for the japan tour detailed schedule with images.
+
+       https://github.com/asithishantha/Sakura_Science_Japan_Tour_2019_December/
+       
+ <br />
  
   <br />
  <h3 align="center"> 
