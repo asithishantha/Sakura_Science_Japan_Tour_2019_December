@@ -119,8 +119,6 @@ Certificate of Achievement   <br />
 <h3 align="center"> YouTube Movie Presentation by Dhaneja Meegoda  </h3>
  <br />
 Connect with [Dhaneja Meegoda]
-[Dhaneja Meegoda]:  https://lk.linkedin.com/in/dhaneja-meegoda-0417
-
 
 
  <br />
@@ -245,4 +243,5 @@ Day 5 |  14 Dec Sat
 
 
 [GitHub]: https://github.com/kaz0505 
+[Dhaneja Meegoda]:  https://lk.linkedin.com/in/dhaneja-meegoda-0417
 
