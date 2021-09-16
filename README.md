@@ -3,16 +3,16 @@
 <h2 align="center"> 
  Sakura Science Japan Tour 2019 December     <br />
  </h2> 
-
+    <br />
   <h4 align="center"> 
 Certificate of Achievement   <br />
 
 </h4>  
   
-   <br />
+<br />
  
  <p align="center">
-  <img src="https://photos.templatetoaster.info/aj4z0w.jpg" >
+  <img src="https://photos.templatetoaster.info/aj4z0w.jpg" width="1000px" height="739px" >
 </p> 
   
      <br />
