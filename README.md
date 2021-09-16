@@ -17,7 +17,7 @@
 <h3 align="center"> 
   
    
-  <img src="https://photos.templatetoaster.info/6a40sy.png"  width="800px" height="719px" >
+  <img src="https://photos.templatetoaster.info/6a40sy.png"  width="600px" height="539px" >
   
 
   <br />
@@ -27,7 +27,7 @@
   
 <br />
 
-Through the SAKURA Exchange Program in Science, a group of 8 participants from the Lanka Nippon Biztech Institute Sri Lanka (lNBTI) visited the Kyushu Institute of Technology (kyutech)  Iizuka,Fukuoka and Metatechno inc. Kawasaki, Kanagawa for a Cultural exchange, One day Internship and IOT workshop program running from December 10 to 15, 2017. During the program, participants experienced in the Japanese IT industry, IOT wih microcontroller programming using Ruby programming language and Japanese culture. we (Sri Lankan students) were selected for this program using a competitive system based on academic performance  and Japanese language proficiency. 
+Through the SAKURA Exchange Program in Science, a group of 8 participants from the Lanka Nippon Biztech Institute Sri Lanka (lNBTI) visited the Kyushu Institute of Technology (kyutech)  Iizuka,Fukuoka and Metatechno inc. Kawasaki, Kanagawa for a Cultural exchange, One day Internship and IOT workshop program running from December 10 to 15, 2019. During the program, participants experienced in the Japanese IT industry, IOT wih microcontroller programming using Ruby programming language and Japanese culture. we (Sri Lankan students) were selected for this program using a competitive system based on academic performance  and Japanese language proficiency. 
 
 
 Purposes of Sakura Science Exchange Program
