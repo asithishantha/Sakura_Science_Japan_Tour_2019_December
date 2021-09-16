@@ -242,14 +242,14 @@ Day 5 |  14 Dec Sat
 ## Connect with Team Members:
   <br />
   
-Connect with [Kushini Hathurusinghe]
-Connect with [Ravindu Sankha]      
-Connect with [Miyuru Kularathne]                                                     
-Connect with [Dhaneja Meegoda ]  
-Connect with [Dhanika Ponnamperuma]
-Connect with [Senesh Deshan]
-Connect with [Nelushi Amaya ]
-Connect with [Asith Ishantha] 
+Connect with [Kushini Hathurusinghe]    <br />
+Connect with [Ravindu Sankha]        <br />
+Connect with [Miyuru Kularathne]               <br />                                        
+Connect with [Dhaneja Meegoda ]    <br />
+Connect with [Dhanika Ponnamperuma]      <br />
+Connect with [Senesh Deshan]      <br />
+Connect with [Nelushi Amaya ]      <br />
+Connect with [Asith Ishantha]     <br />
    
 
 
