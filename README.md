@@ -11,6 +11,30 @@
   
 <br />
 
+Through the SAKURA Exchange Program in Science, a group of 8 participants from the Lanka Nippon Biztech Institute Sri Lanka (lNBTI) visited the Kyushu Institute of Technology (kyutech)  Iizuka,Fukuoka and Metatechno inc. Kawasaki, Kanagawa for a Cultural exchange, One day Internship and IOT workshop program running from December 10 to 15, 2017. During the program, participants experienced in the Japanese IT industry, IOT wih microcontroller programming using Ruby programming language and Japanese culture. we (Sri Lankan students) were selected for this program using a competitive system based on academic performance  and Japanese language proficiency. 
+
+
+Purposes of Sakura Science Exchange Program
+By exchanging ideas in the field of science and technology among the participants of Sakura Science Program, 
+
+- Support the development of talented people overseas who have the potential to contribute to innovation in science and technology; and support continuous interaction between Japan and other countries and regions.
+- Promote globalization of Japanese educational and research institutes
+- Strengthen good relationship between Japan and other countries and regions And ultimately we pursue the development of science and technology in Japan and worldwide.
+
+
+People who come to Japan on Sakura Science Exchange Program will be certified as members of the Sakura Science Club, the alumni association of the Sakura Science Exchange Program.
+
+
+
+
+
+                                  “ I thought Japan is far beyond my expectations. By looking at Japan with my own eyes. I became more interested in science and technology 
+                                  and I  began to understand the importance of science and technology after participating Sakura Science Exchange Program. 
+                                  Also, when we think about things, and when we try to do something, we must first think about the ethics and common benefit of mankind. 
+                                  I think I have broadened my  horizons by participating in this program.”
+
+                                  Asith Ishantha Madurawala
+
 
  
 <h3 align="center"> 
