@@ -240,7 +240,8 @@ Day 5 |  14 Dec Sat
   <br />
   
 ## Connect with Team Members:
-
+  <br />
+  
 Connect with [Kushini Hathurusinghe]
 Connect with [Ravindu Sankha]      
 Connect with [Miyuru Kularathne]                                                     
@@ -261,5 +262,5 @@ Connect with [Asith Ishantha]
 [Dhaneja Meegoda ]:  https://lk.linkedin.com/in/dhaneja-meegoda-0417
 [Dhanika Ponnamperuma]:  https://sg.linkedin.com/in/dhanika-ponnamperuma-bba8a69a
 [Senesh Deshan]:  https://lk.linkedin.com/in/senesh-deshan
-[Nelushi Amaya ]:
+[Nelushi Amaya ]:  https://www.google.com/
 [Asith Ishantha]: https://jp.linkedin.com/in/asith-ishantha-%E3%82%A2%E3%82%B7%E3%83%83%E3%83%88%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%B3%E3%82%BF-3164a4156
