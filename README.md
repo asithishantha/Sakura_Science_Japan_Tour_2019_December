@@ -118,7 +118,13 @@ Certificate of Achievement   <br />
 
 <h3 align="center"> YouTube Movie Presentation by Dhaneja Meegoda  </h3>
  <br />
-copy the following link or press the following image.
+Connect with [Dhaneja Meegoda]
+[Dhaneja Meegoda]:  https://lk.linkedin.com/in/dhaneja-meegoda-0417
+
+
+
+ <br />
+copy the following link or press the following image to watch the video..
 
        https://www.youtube.com/watch?v=E1uuD_QntMQ&t=621s
  <br />
