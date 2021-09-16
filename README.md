@@ -26,10 +26,25 @@ Senesh Deshan       <br />
 Nelushi Amaya     <br />                                                             
 Asith Ishantha Madurawala        <br />                                                         
 </h4>
-       
-                                                      
-                                                              
+
+<!-- Connect with [Kushini Hathurusinghe]
+Connect with [Ravindu Sankha]      
+Connect with [Miyuru Kularathne]                                                     
+Connect with [Dhaneja Meegoda ]  
+Connect with [Dhanika Ponnamperuma]
+Connect with [Senesh Deshan]
+Connect with [Nelushi Amaya ]
+Connect with [Asith Ishantha] -->
    
+                                                                  Connect with [Kushini Hathurusinghe]
+                                                                  Connect with [Ravindu Sankha]      
+                                                                  Connect with [Miyuru Kularathne]                                                     
+                                                                  Connect with [Dhaneja Meegoda ]  
+                                                                  Connect with [Dhanika Ponnamperuma]
+                                                                  Connect with [Senesh Deshan]
+                                                                  Connect with [Nelushi Amaya ]
+                                                                  Connect with [Asith Ishantha]
+
  <br />
  
  <p align="center">
@@ -246,4 +261,11 @@ Day 5 |  14 Dec Sat
 
 [GitHub]: https://github.com/kaz0505 
 [Dhaneja Meegoda]:  https://lk.linkedin.com/in/dhaneja-meegoda-0417
-
+[Kushini Hathurusinghe]:  https://lk.linkedin.com/in/kushini-hathurusinghe-a8522115b
+[Ravindu Sankha]:   https://jp.linkedin.com/in/ravindu-sankha-299335131  
+[Miyuru Kularathne]:  https://lk.linkedin.com/in/miyuru-kularathne-ab8297140                                                   
+[Dhaneja Meegoda ]:  https://lk.linkedin.com/in/dhaneja-meegoda-0417
+[Dhanika Ponnamperuma]:  https://sg.linkedin.com/in/dhanika-ponnamperuma-bba8a69a
+[Senesh Deshan]:  https://lk.linkedin.com/in/senesh-deshan
+[Nelushi Amaya ]:
+[Asith Ishantha]: https://jp.linkedin.com/in/asith-ishantha-%E3%82%A2%E3%82%B7%E3%83%83%E3%83%88%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%B3%E3%82%BF-3164a4156
