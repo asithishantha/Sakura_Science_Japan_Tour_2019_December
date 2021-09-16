@@ -112,7 +112,7 @@ Certificate of Achievement   <br />
  
   <br />
  <h3 align="center"> 
-   Schedule: Kyutech-Japan Cultural and IOT Workshop Program (Dec 10 - Dec 15, 2019) 
+   Schedule: Kyutech-Japan Cultural Exchange and IOT Workshop Program (Dec 10 - Dec 15, 2019) 
  <br />
 </h3>
 
