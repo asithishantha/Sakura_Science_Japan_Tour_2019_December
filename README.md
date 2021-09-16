@@ -6,8 +6,11 @@
 </h2>
 
 <p align="center">
-  <img src="https://photos.templatetoaster.info/7kvpjc.png" >
+  <img src="https://photos.templatetoaster.info/7kvpjc.png" ><br />
+  In 2014, JST began the Sakura Science Program. This program is designed to invite young people from countries and regions to Japan for a short period of time, and to allow them to come into contact with leading-edge science and technology and Japanese culture, and to provide them with opportunities to understand each other and to build strong relationships through interaction with young people in Japan.
 </p> 
+
+
 
 <br />
 
