@@ -124,7 +124,7 @@ copy the following link or press the following image.
  <br />
 <div align="center">
       <a href="https://www.youtube.com/watch?v=E1uuD_QntMQ&t=621s">
-         <img src="https://photos.templatetoaster.info/4lyhnc.jpg" style="width:100%;">
+         <img src="https://photos.templatetoaster.info/4lyhnc.jpg" width="500px" height="281px">
       </a>
 </div>
  
