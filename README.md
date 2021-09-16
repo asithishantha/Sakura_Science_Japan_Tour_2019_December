@@ -3,6 +3,33 @@
 <h2 align="center"> 
  Sakura Science Japan Tour 2019 December     <br />
   
+  
+ <h3 align="center"> 
+ Sakura Science Sri Lanka Represented Team  Members <br />
+</h3>
+                  
+<h4 align="center"> 
+Kushini Hathurusinghe    <br />
+Ravindu Sankha      <br />
+Miyuru Kularathne    <br />                                                               
+Dhaneja Meegoda      <br />                                                               
+Dhanika Ponnamperuma    <br />                                                            
+Senesh Deshan       <br />                                                                 
+Nelushi Amaya     <br />                                                             
+Asith Ishantha Madurawala        <br />                                                         
+</h4>
+       
+                                                      
+                                                              
+   
+ <br />
+ 
+ <p align="center">
+  <img src="https://photos.templatetoaster.info/05aaje.jpg" >
+</p> 
+<!-- Photo Courtsey: Miyuru Kularathne -->
+
+  
 </h2>
 
 <p align="center">
@@ -62,32 +89,6 @@ People who come to Japan on Sakura Science Exchange Program will be certified as
 
 
  
-<h3 align="center"> 
- Sakura Science Sri Lanka Represented Team  Members <br />
-</h3>
-                  
-<h4 align="center"> 
-Kushini Hathurusinghe    <br />
-Ravindu Sankha      <br />
-Miyuru Kularathne    <br />                                                               
-Dhaneja Meegoda      <br />                                                               
-Dhanika Ponnamperuma    <br />                                                            
-Senesh Deshan       <br />                                                                 
-Nelushi Amaya     <br />                                                             
-Asith Ishantha Madurawala        <br />                                                         
-</h4>
-       
-                   	
-                                  
-                                                         
-                                                              
-   
- <br />
- 
- <p align="center">
-  <img src="https://photos.templatetoaster.info/05aaje.jpg" >
-</p> 
-<!-- Photo Courtsey: Miyuru Kularathne -->
 
  
   <br />
