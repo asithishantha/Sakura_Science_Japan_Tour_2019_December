@@ -14,11 +14,7 @@
 <h3 align="center"> 
   
    
-  <img src="https://photos.templatetoaster.info/n32zg8.png" >
-  
-  <img src="https://photos.templatetoaster.info/3vdp9w.png" >
-  
-  <img src="https://photos.templatetoaster.info/lb6tzt.png"  >
+  <img src="https://photos.templatetoaster.info/6a40sy.png" >
   
 
   <br />
