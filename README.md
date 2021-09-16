@@ -128,12 +128,12 @@ copy the following link or press the following image.
       </a>
 </div>
  <br />
-Please visit the sakura science repository for the japan tour detailed schedule with images.
+<!-- Please visit the sakura science repository for the japan tour detailed schedule with images.
 
        https://github.com/asithishantha/Sakura_Science_Japan_Tour_2019_December/
        
  <br />
- 
+  -->
   <br />
  <h3 align="center"> 
    Schedule: Kyutech-Japan Cultural Exchange and IOT Workshop Program (Dec 10 - Dec 15, 2019) 
