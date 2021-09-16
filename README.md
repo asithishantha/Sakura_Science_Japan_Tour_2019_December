@@ -17,7 +17,7 @@
 <h3 align="center"> 
   
    
-  <img src="https://photos.templatetoaster.info/6a40sy.png"  width="1000px" height="899px" >
+  <img src="https://photos.templatetoaster.info/6a40sy.png"  width="800px" height="719px" >
   
 
   <br />
