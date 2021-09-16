@@ -19,7 +19,7 @@
 <!--    
   <img src="https://photos.templatetoaster.info/6a40sy.png"  width="600px" height="539px" > -->
   
-  <img src="https://photos.templatetoaster.info/xpa68o.png"  width="600px" height="539px" >
+  <img src="https://photos.templatetoaster.info/xpa68o.png"  width="450px" height="404px" >
   
   
   
