@@ -4,16 +4,7 @@
  Sakura Science Japan Tour 2019 December     <br />
  </h2> 
     <br />
-  <h4 align="center"> 
-Certificate of Achievement   <br />
 
-</h4>  
-  
-<br />
- 
- <p align="center">
-  <img src="https://photos.templatetoaster.info/aj4z0w.jpg" width="1000px" height="739px" >
-</p> 
   
   <br />
  <h3 align="center"> 
@@ -107,7 +98,16 @@ People who come to Japan on Sakura Science Exchange Program will be certified as
      Asith Ishantha Madurawala
 
 
+  <h4 align="center"> 
+Certificate of Achievement   <br />
+
+</h4>  
+  
+<br />
  
+ <p align="center">
+  <img src="https://photos.templatetoaster.info/aj4z0w.jpg" width="800px" height="591px" >
+</p> 
 
  
   <br />
