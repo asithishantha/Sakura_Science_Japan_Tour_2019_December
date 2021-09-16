@@ -58,7 +58,7 @@ Asith Ishantha Madurawala        <br />
   
 <br />
 
-Through the SAKURA Exchange Program in Science, a group of 8 participants from the Lanka Nippon Biztech Institute Sri Lanka (lNBTI) visited the Kyushu Institute of Technology (kyutech) Fukuoka and Metatechno inc. Kanagawa for a Cultural exchange, One day Internship and IOT workshop program running from December 10 to 15, 2019. During the program, participants experienced in the Japanese IT industry, IOT wih microcontroller programming using Ruby programming language and Japanese culture. we (Sri Lankan students) were selected for this program using a competitive system based on academic performance  and Japanese language proficiency. 
+    Through the SAKURA Exchange Program in Science, a group of 8 participants from the Lanka Nippon Biztech Institute Sri Lanka (lNBTI) visited the Kyushu Institute of       Technology (kyutech) Fukuoka and Metatechno inc. Kanagawa for a Cultural exchange, One day Internship and IOT workshop program running from December 10 to 15, 2019. During the program, participants experienced in the Japanese IT industry, IOT wih microcontroller programming using Ruby programming language and Japanese culture. we (Sri Lankan students) were selected for this program using a competitive system based on academic performance  and Japanese language proficiency. 
 
 
 <h3 align="center"> 
@@ -67,11 +67,11 @@ Purposes of Sakura Science Exchange Program <br />
   
 </h3>
 
-By exchanging ideas in the field of science and technology among the participants of Sakura Science Program, 
+    By exchanging ideas in the field of science and technology among the participants of Sakura Science Program, 
 
-- Support the development of talented people overseas who have the potential to contribute to innovation in science and technology; and support continuous interaction between Japan and other countries and regions.
-- Promote globalization of Japanese educational and research institutes
-- Strengthen good relationship between Japan and other countries and regions And ultimately we pursue the development of science and technology in Japan and worldwide.
+    - Support the development of talented people overseas who have the potential to contribute to innovation in science and technology; and support continuous interaction between Japan and other countries and regions.
+    - Promote globalization of Japanese educational and research institutes
+    - Strengthen good relationship between Japan and other countries and regions And ultimately we pursue the development of science and technology in Japan and worldwide.
 
 
 People who come to Japan on Sakura Science Exchange Program will be certified as members of the Sakura Science Club, the alumni association of the Sakura Science Exchange Program.
