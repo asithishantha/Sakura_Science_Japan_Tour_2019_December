@@ -5,18 +5,11 @@
  </h2> 
     <br />
 
-<h3 align="center"> 
+<p align="center">
+  <img src="https://photos.templatetoaster.info/7kvpjc.png" ><br />
   
-<!--    
-  <img src="https://photos.templatetoaster.info/6a40sy.png"  width="600px" height="539px" > -->
-  
-  <img src="https://photos.templatetoaster.info/xpa68o.png"  width="450px" height="404px" >
-  
-  
-  
+</p> 
 
-  <br />
-</h3>
   
   <br />
  <h3 align="center"> 
@@ -48,7 +41,7 @@ Asith Ishantha Madurawala        <br />
 
 
 <p align="center">
-  <img src="https://photos.templatetoaster.info/7kvpjc.png" ><br />
+  <br />
   In 2014, JST began the Sakura Science Program. This program is designed to invite young people from countries and regions to Japan for a short period of time, and to allow them to come into contact with leading-edge science and technology and Japanese culture, and to provide them with opportunities to understand each other and to build strong relationships through interaction with young people in Japan.
 </p> 
 
@@ -56,7 +49,7 @@ Asith Ishantha Madurawala        <br />
 
 <br />
 
-<!-- <h3 align="center"> 
+<h3 align="center"> 
   
 <!--    
   <img src="https://photos.templatetoaster.info/6a40sy.png"  width="600px" height="539px" > -->
@@ -67,7 +60,7 @@ Asith Ishantha Madurawala        <br />
   
 
   <br />
-</h3> -->
+</h3> 
 
 
   
