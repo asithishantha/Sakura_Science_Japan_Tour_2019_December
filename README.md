@@ -27,23 +27,6 @@ Nelushi Amaya     <br />
 Asith Ishantha Madurawala        <br />                                                         
 </h4>
 
-<!-- Connect with [Kushini Hathurusinghe]
-Connect with [Ravindu Sankha]      
-Connect with [Miyuru Kularathne]                                                     
-Connect with [Dhaneja Meegoda ]  
-Connect with [Dhanika Ponnamperuma]
-Connect with [Senesh Deshan]
-Connect with [Nelushi Amaya ]
-Connect with [Asith Ishantha] -->
-   
-                                                                  Connect with [Kushini Hathurusinghe]
-                                                                  Connect with [Ravindu Sankha]      
-                                                                  Connect with [Miyuru Kularathne]                                                     
-                                                                  Connect with [Dhaneja Meegoda ]  
-                                                                  Connect with [Dhanika Ponnamperuma]
-                                                                  Connect with [Senesh Deshan]
-                                                                  Connect with [Nelushi Amaya ]
-                                                                  Connect with [Asith Ishantha]
 
  <br />
  
@@ -255,7 +238,18 @@ Day 5 |  14 Dec Sat
  -->
 <img src="https://github.com/asithishantha/Sakura_Science_Japan_Tour_2019_December/blob/main/iot%20gif.gif"  width="350px" height="197px" >
   <br />
+  
+## Connect with Team Members:
 
+Connect with [Kushini Hathurusinghe]
+Connect with [Ravindu Sankha]      
+Connect with [Miyuru Kularathne]                                                     
+Connect with [Dhaneja Meegoda ]  
+Connect with [Dhanika Ponnamperuma]
+Connect with [Senesh Deshan]
+Connect with [Nelushi Amaya ]
+Connect with [Asith Ishantha] 
+   
 
 
 
