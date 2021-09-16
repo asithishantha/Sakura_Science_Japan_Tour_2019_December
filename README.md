@@ -106,7 +106,7 @@ Certificate of Achievement   <br />
 <br />
  
  <p align="center">
-  <img src="https://photos.templatetoaster.info/aj4z0w.jpg" width="800px" height="591px" >
+  <img src="https://photos.templatetoaster.info/aj4z0w.jpg" width="500px" height="369px" >
 </p> 
 
  
