@@ -1,9 +1,9 @@
-  
+   <br />
 
 <h2 align="center"> 
  Sakura Science Japan Tour 2019 December     <br />
  </h2> 
-    <br />
+   
 
 <p align="center">
   <img src="https://photos.templatetoaster.info/7kvpjc.png" ><br />
@@ -244,7 +244,7 @@ Day 5 |  14 Dec Sat
   
 Connect with [Kushini Hathurusinghe]    <br />
 Connect with [Ravindu Sankha]        <br />
-Connect with [Miyuru Kularathne]               <br />                                        
+Connect with [Miyuru Kularathne]                                                 
 Connect with [Dhaneja Meegoda ]    <br />
 Connect with [Dhanika Ponnamperuma]      <br />
 Connect with [Senesh Deshan]      <br />
