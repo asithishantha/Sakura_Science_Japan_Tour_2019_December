@@ -5,6 +5,18 @@
  </h2> 
     <br />
 
+<h3 align="center"> 
+  
+<!--    
+  <img src="https://photos.templatetoaster.info/6a40sy.png"  width="600px" height="539px" > -->
+  
+  <img src="https://photos.templatetoaster.info/xpa68o.png"  width="450px" height="404px" >
+  
+  
+  
+
+  <br />
+</h3>
   
   <br />
  <h3 align="center"> 
@@ -44,7 +56,7 @@ Asith Ishantha Madurawala        <br />
 
 <br />
 
-<h3 align="center"> 
+<!-- <h3 align="center"> 
   
 <!--    
   <img src="https://photos.templatetoaster.info/6a40sy.png"  width="600px" height="539px" > -->
@@ -55,7 +67,7 @@ Asith Ishantha Madurawala        <br />
   
 
   <br />
-</h3>
+</h3> -->
 
 
   
