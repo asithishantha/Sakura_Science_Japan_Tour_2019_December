@@ -212,7 +212,7 @@ Move to Kyutech university <br />(Kyushu Institute of Technology)  | Orientation
 | :--- | ---: | 
 <img src="https://photos.templatetoaster.info/fjqaxa.jpg" > | <img src="https://photos.templatetoaster.info/zrgj1r.jpg" > 
  Lunch  |   IOT Workshop @Kyutech 
-<img  src="https://photos.templatetoaster.info/0qble7.jpg"> |   <img src="https://photos.templatetoaster.info/7uj2cd.jpg" > <img src="https://photos.templatetoaster.info/8sjjrg.jpg" > 
+<img  src="https://photos.templatetoaster.info/0qble7.jpg"> | <img src="https://photos.templatetoaster.info/8sjjrg.jpg" > 
  Go back to the hotel   | 
 <img  src="https://photos.templatetoaster.info/0hq0au.jpg"> |   
 
