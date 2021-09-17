@@ -33,8 +33,8 @@ Asith Ishantha Madurawala        <br />
  <p align="center">
   <img src="https://photos.templatetoaster.info/05aaje.jpg" >
 </p> 
-<!-- Photo Courtsey: Miyuru Kularathne -->
-
+Photo Courtsey: Miyuru Kularathne 
+Connect with [Miyuru Kularathne]           
   
 
 
@@ -253,11 +253,11 @@ Day 5 |  14 Dec Sat
 
  Move to Ito Denemon Tei    |  Ito Denemon Tei Tour  
 | :--- | ---: | 
-<img src="https://photos.templatetoaster.info/74lvq2.jpg" > | <img src=" https://photos.templatetoaster.info/32s9l6.jpg" > 
+<img src="https://photos.templatetoaster.info/74lvq2.jpg" > | <img src="https://photos.templatetoaster.info/32s9l6.jpg" > 
 Move to Hotel, pick up baggages   |  Move to Fukuoka (Train 13:25-14:28) 
 <img  src="https://photos.templatetoaster.info/wm9bed.jpg"> |   <img src="https://photos.templatetoaster.info/xpddgg.jpg" > 
   Hotel Check in Hakata, Fukuoka   |  Free Time (Visit Kokura castle, <br />  Shinkansen experience <br />from Hakata to Kokura)
-<img  src="https://photos.templatetoaster.info/is11fr.jpg"> |   <img src=" https://photos.templatetoaster.info/p2q369.jpg" > 
+<img  src="https://photos.templatetoaster.info/is11fr.jpg"> |  <img src="https://photos.templatetoaster.info/p2q369.jpg" > 
 Dinner Hakata, Fukuoka    |    Go back to the hotel
 <img  src="https://photos.templatetoaster.info/u9yu5m.jpg"> |   <img src="https://photos.templatetoaster.info/wdt4nx.jpg" > 
 
