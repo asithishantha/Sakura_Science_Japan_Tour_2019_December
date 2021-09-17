@@ -1,0 +1,52 @@
+while true
+ output 0,1  #pin num,. 3.0
+ sleep 0.5
+ output 0,0
+ sleep 0.5
+
+ tone 445    #pin num. 15.0
+Å@sleep 1
+ tone 0
+ sleep 1
+end
+
+
+while true
+ output 2,1
+ for num in 0..8 do
+  output 0,1
+  output 1,1
+  tone 1400
+  sleep 0.05
+  output 0,0
+  output 1,0
+  sleep 0.05
+  output 4,1
+  output 5,1
+  tone 2200
+  sleep 0.05
+  output 4,0
+  output 5,0 
+  sleep 0.05
+  end
+  for num in 0..3 do
+  output 0,1
+  output 1,1
+  tone 1400
+  sleep 0.2
+  output 0,0
+  output 1,0
+  sleep 0.2
+  output 4,1
+  output 5,1
+  tone 2200
+  sleep 0.2
+  output 4,0
+  output 5,0 
+  sleep 0.2
+  end
+  for x in 200..900 do
+   tone x
+   sleep 0.005
+  end
+end
