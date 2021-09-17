@@ -125,10 +125,10 @@ People who come to Japan on Sakura Science Exchange Program will be certified as
 
 
 
-     “ I thought Japan is far beyond my expectations. By looking at Japan with my own eyes. I became more interested in science and 
-     technology and I began to understand the importance of science and technology after participating Sakura Science Exchange
-     Program.Also, when we  think about things, and when we try to do something, we must first think about the ethics and common
-     benefit of mankind.I think I have broadened my horizons by participating in this program.”        
+   “ I thought Japan is far beyond my expectations. By looking at Japan with my own eyes, I began to understand the importance 
+     of science and technology after participating Sakura Science Exchange Program. Also, when we think about things, and when
+     we try to do something, we must first think about the ethics and common benefit of mankind. I think I have broadened 
+     my horizons by participating in this program.”        
      
      Asith Ishantha Madurawala
 
@@ -191,11 +191,11 @@ Day 1 | 10 December Tue
 
 Arrive at Narita Airport (JL7076)  | Move to Musasikosugi (Hotel) 
 | :--- | ---: | 
-<img src="https://photos.templatetoaster.info/u72ckh.jpg" > | <img src="https://photos.templatetoaster.info/2phpfx.jpg" > 
+<img src="https://photos.templatetoaster.info/u72ckh.jpg" > | <img src="https://photos.templatetoaster.info/sj1f5w.jpg" > 
 Lunch | One day internship @Metatechno 
-<img  src="https://photos.templatetoaster.info/9ng33b.jpg"> |   <img src="https://photos.templatetoaster.info/cmf7ca.jpg" > 
+<img  src="https://photos.templatetoaster.info/bwa8o1.jpg"> |   <img src="https://photos.templatetoaster.info/cmf7ca.jpg" > 
 Welcome Dinner  |  Go back to the hotel
-<img  src="https://photos.templatetoaster.info/e9ab7v.jpg"> |   <img src="https://photos.templatetoaster.info/yp3f0a.jpg" > 
+<img  src="https://photos.templatetoaster.info/e9ab7v.jpg"> |   <img src="https://photos.templatetoaster.info/o4bs69.jpg" > 
 
 
 <!-- Day 2 |  11 Dec Wed 
