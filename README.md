@@ -181,8 +181,18 @@ Day 2 |  11 Dec Wed
 13.00-14.00 | Move to Haneda Airport 
 15:00-17:05 | Move to Fukuoka (JL323) 
 17.00-19.00 | Move to Iizuka (Bus 17:47-18:49) 
-19.00       |  Dinner  & Go back to the hotel
+19.00       | Dinner & Go to Iizuka hotel
 
+
+Move to Haneda Airport   | Air Check-in 
+| :--- | ---: | 
+<img src="https://photos.templatetoaster.info/u72ckh.jpg" > | <img src="https://photos.templatetoaster.info/2phpfx.jpg" > 
+Move to Miraikan  |  Tech experience @Miraikarn 
+<img  src="https://photos.templatetoaster.info/9ng33b.jpg"> |   <img src="https://photos.templatetoaster.info/cmf7ca.jpg" > 
+Move to Haneda Airport  |  Move to Fukuoka (JL323) 
+<img  src="https://photos.templatetoaster.info/e9ab7v.jpg"> |   <img src="https://photos.templatetoaster.info/yp3f0a.jpg" > 
+Move to Iizuka (Bus 17:47-18:49)   |  Dinner & Go to Iizuka hotel
+<img  src="https://photos.templatetoaster.info/e9ab7v.jpg"> |   <img src="https://photos.templatetoaster.info/yp3f0a.jpg" > 
 
 
 <br />
@@ -194,8 +204,20 @@ Day 3 |  12 Dec Tur
  12:00 -13.30 | Lunch
 13 30 -17:00 |    IOT Workshop @Kyutech 
  17:00        |    Go back to the hotel 
+ 
  <br />
 
+Move to Haneda Airport   | Air Check-in 
+| :--- | ---: | 
+<img src="https://photos.templatetoaster.info/u72ckh.jpg" > | <img src="https://photos.templatetoaster.info/2phpfx.jpg" > 
+Move to Miraikan  |  Tech experience @Miraikarn 
+<img  src="https://photos.templatetoaster.info/9ng33b.jpg"> |   <img src="https://photos.templatetoaster.info/cmf7ca.jpg" > 
+Move to Haneda Airport  |  Move to Fukuoka (JL323) 
+<img  src="https://photos.templatetoaster.info/e9ab7v.jpg"> |   <img src="https://photos.templatetoaster.info/yp3f0a.jpg" > 
+Move to Iizuka (Bus 17:47-18:49)   |  Dinner & Go to Iizuka hotel
+<img  src="https://photos.templatetoaster.info/e9ab7v.jpg"> |   <img src="https://photos.templatetoaster.info/yp3f0a.jpg" > 
+
+ <br />
 
  Day 4   | 13 Dec Fri 
  | :--- | ---: |
@@ -206,6 +228,17 @@ Day 3 |  12 Dec Tur
  17:00      |     Go back to the hotel 
  <br />
 
+Move to Kyutech School    |  IOT Workshop @Kyutech 
+| :--- | ---: | 
+<img src="https://photos.templatetoaster.info/u72ckh.jpg" > | <img src="https://github.com/asithishantha/Sakura_Science_Japan_Tour_2019_December/blob/main/iot%20gif.gif"  width="350px" height="197px" >
+Lunch  |  Workshop Presentation 
+<img  src="https://photos.templatetoaster.info/9ng33b.jpg"> |   <img src="https://photos.templatetoaster.info/cmf7ca.jpg" > 
+ Go back to the hotel   | 
+<img  src="https://photos.templatetoaster.info/e9ab7v.jpg"> |  
+
+
+ <br />
+ 
 Day 5 |  14 Dec Sat
 | :--- | ---: | 
  9:00      |        Move to Ito Denemon Tei 
@@ -218,6 +251,19 @@ Day 5 |  14 Dec Sat
    19.30       |     Go back to the hotel
  <br />
 
+
+ Move to Ito Denemon Tei    |  Ito Denemon Tei Tour  
+| :--- | ---: | 
+<img src="https://photos.templatetoaster.info/u72ckh.jpg" > | <img src="https://photos.templatetoaster.info/2phpfx.jpg" > 
+Move to Hotel, pick up baggages   |  Move to Fukuoka (Bus 13:25-14:28) 
+<img  src="https://photos.templatetoaster.info/9ng33b.jpg"> |   <img src="https://photos.templatetoaster.info/cmf7ca.jpg" > 
+  Hotel Check in Hakata, Fukuoka   |  Free Time (Visit Kokura castle, <br />  Shinkansen experience <br />from Hakata to Kokura)
+<img  src="https://photos.templatetoaster.info/e9ab7v.jpg"> |   <img src="https://photos.templatetoaster.info/yp3f0a.jpg" > 
+Dinner Hakata, Fukuoka    |    Go back to the hotel
+<img  src="https://photos.templatetoaster.info/e9ab7v.jpg"> |   <img src="https://photos.templatetoaster.info/yp3f0a.jpg" > 
+
+ <br />
+ 
  Day 6 |  15 Dec Sun 
  | :--- | ---: | 
  6:00     |    Move to Fukuoka airport 
@@ -230,14 +276,19 @@ Day 5 |  14 Dec Sat
 
   <br />
 
+ Move to Fukuoka airport     | Air Check-in  
+| :--- | ---: | 
+<img src="https://photos.templatetoaster.info/u72ckh.jpg" > | <img src="https://photos.templatetoaster.info/2phpfx.jpg" > 
+ Move to Narita airport (JL3052)   | Depart from Narita Airport (JL7077)
+<img  src="https://photos.templatetoaster.info/9ng33b.jpg"> |   <img src="https://photos.templatetoaster.info/cmf7ca.jpg" > 
 
 
 
 <!-- <img src="https://www.linkpicture.com/q/btsarmy-screen.jpg" > | [Visit Website](https://dev-btsarmy.pantheonsite.io/ "Github home")
 | :--- | ---: |
  -->
-<img src="https://github.com/asithishantha/Sakura_Science_Japan_Tour_2019_December/blob/main/iot%20gif.gif"  width="350px" height="197px" >
-  <br />
+<!-- <img src="https://github.com/asithishantha/Sakura_Science_Japan_Tour_2019_December/blob/main/iot%20gif.gif"  width="350px" height="197px" >
+  <br /> -->
   
 ## Connect with Team Members:
   <br />
