@@ -33,7 +33,7 @@ Asith Ishantha Madurawala        <br />
  <p align="center">
   <img src="https://photos.templatetoaster.info/05aaje.jpg" >
 </p> 
-Photo Courtsey: Miyuru Kularathne 
+Photo Courtsey: Miyuru Kularathne   <br />
 Connect with [Miyuru Kularathne]           
   
 
