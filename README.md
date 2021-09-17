@@ -207,15 +207,13 @@ Day 3 |  12 Dec Tur
  
  <br />
 
-Move to Haneda Airport   | Air Check-in 
+Move to Kyutech university <br />(Kyushu Institute of Technology)  | Orientation and Campus tour 
 | :--- | ---: | 
-<img src="https://photos.templatetoaster.info/u72ckh.jpg" > | <img src="https://photos.templatetoaster.info/2phpfx.jpg" > 
-Move to Miraikan  |  Tech experience @Miraikarn 
-<img  src="https://photos.templatetoaster.info/9ng33b.jpg"> |   <img src="https://photos.templatetoaster.info/cmf7ca.jpg" > 
-Move to Haneda Airport  |  Move to Fukuoka (JL323) 
-<img  src="https://photos.templatetoaster.info/e9ab7v.jpg"> |   <img src="https://photos.templatetoaster.info/yp3f0a.jpg" > 
-Move to Iizuka (Bus 17:47-18:49)   |  Dinner & Go to Iizuka hotel
-<img  src="https://photos.templatetoaster.info/e9ab7v.jpg"> |   <img src="https://photos.templatetoaster.info/yp3f0a.jpg" > 
+<img src="https://photos.templatetoaster.info/fjqaxa.jpg" > | <img src="https://photos.templatetoaster.info/zrgj1r.jpg" > 
+ Lunch  |   IOT Workshop @Kyutech 
+<img  src="https://photos.templatetoaster.info/0qble7.jpg"> |   <img src="https://photos.templatetoaster.info/7uj2cd.jpg" > 
+ Go back to the hotel   | 
+<img  src="https://photos.templatetoaster.info/0hq0au.jpg"> |   
 
  <br />
 
@@ -225,16 +223,17 @@ Move to Iizuka (Bus 17:47-18:49)   |  Dinner & Go to Iizuka hotel
  9:30-12:00  | IOT Workshop @Kyutech 
  12.00-13:30| Lunch 
  13:30-17:00  | Workshop Presentation 
- 17:00      |     Go back to the hotel 
+ 17:00- 20:00   |    Farewell party 
+ 20:00     |      Go back to the hotel 
  <br />
 
 Move to Kyutech School    |  IOT Workshop @Kyutech 
 | :--- | ---: | 
-<img src="https://photos.templatetoaster.info/u72ckh.jpg" > | <img src="https://github.com/asithishantha/Sakura_Science_Japan_Tour_2019_December/blob/main/iot%20gif.gif"  width="350px" height="197px" >
+<img src="https://photos.templatetoaster.info/w73vix.jpg" > | <img src="https://github.com/asithishantha/Sakura_Science_Japan_Tour_2019_December/blob/main/iot%20gif.gif"  width="350px" height="197px" >
 Lunch  |  Workshop Presentation 
-<img  src="https://photos.templatetoaster.info/9ng33b.jpg"> |   <img src="https://photos.templatetoaster.info/cmf7ca.jpg" > 
- Go back to the hotel   | 
-<img  src="https://photos.templatetoaster.info/e9ab7v.jpg"> |  
+<img  src="https://photos.templatetoaster.info/n67cje.jpg"> |   <img src="https://photos.templatetoaster.info/id491h.jpg" > 
+Farewell party   | Go back to the hotel  
+<img  src="https://photos.templatetoaster.info/8rzjj5.jpg"> |  <img  src="https://photos.templatetoaster.info/vtsvr5.jpg">
 
 
  <br />
@@ -244,7 +243,7 @@ Day 5 |  14 Dec Sat
  9:00      |        Move to Ito Denemon Tei 
  9:30-12:30   |   Ito Denemon Tei Tour 
  12:30-13:00  |  Move to Hotel, pick up baggages 
- 13.00-15.00 | Move to Fukuoka (Bus 13:25-14:28) 
+ 13.00-15.00 | Move to Fukuoka (Train 13:25-14:28) 
  15.00      |      Hotel Check in Hakata, Fukuoka 
 15:00-18.00 | Free Time (Visit Kokura castle, <br />Shinkansen experience <br />from Hakata to Kokura)
  18 00-19 30 | Dinner Hakata, Fukuoka 
@@ -254,13 +253,13 @@ Day 5 |  14 Dec Sat
 
  Move to Ito Denemon Tei    |  Ito Denemon Tei Tour  
 | :--- | ---: | 
-<img src="https://photos.templatetoaster.info/u72ckh.jpg" > | <img src="https://photos.templatetoaster.info/2phpfx.jpg" > 
-Move to Hotel, pick up baggages   |  Move to Fukuoka (Bus 13:25-14:28) 
-<img  src="https://photos.templatetoaster.info/9ng33b.jpg"> |   <img src="https://photos.templatetoaster.info/cmf7ca.jpg" > 
+<img src="https://photos.templatetoaster.info/74lvq2.jpg" > | <img src=" https://photos.templatetoaster.info/32s9l6.jpg" > 
+Move to Hotel, pick up baggages   |  Move to Fukuoka (Train 13:25-14:28) 
+<img  src="https://photos.templatetoaster.info/wm9bed.jpg"> |   <img src="https://photos.templatetoaster.info/xpddgg.jpg" > 
   Hotel Check in Hakata, Fukuoka   |  Free Time (Visit Kokura castle, <br />  Shinkansen experience <br />from Hakata to Kokura)
-<img  src="https://photos.templatetoaster.info/e9ab7v.jpg"> |   <img src="https://photos.templatetoaster.info/yp3f0a.jpg" > 
+<img  src="https://photos.templatetoaster.info/is11fr.jpg"> |   <img src=" https://photos.templatetoaster.info/p2q369.jpg" > 
 Dinner Hakata, Fukuoka    |    Go back to the hotel
-<img  src="https://photos.templatetoaster.info/e9ab7v.jpg"> |   <img src="https://photos.templatetoaster.info/yp3f0a.jpg" > 
+<img  src="https://photos.templatetoaster.info/u9yu5m.jpg"> |   <img src="https://photos.templatetoaster.info/wdt4nx.jpg" > 
 
  <br />
  
@@ -278,9 +277,9 @@ Dinner Hakata, Fukuoka    |    Go back to the hotel
 
  Move to Fukuoka airport     | Air Check-in  
 | :--- | ---: | 
-<img src="https://photos.templatetoaster.info/u72ckh.jpg" > | <img src="https://photos.templatetoaster.info/2phpfx.jpg" > 
- Move to Narita airport (JL3052)   | Depart from Narita Airport (JL7077)
-<img  src="https://photos.templatetoaster.info/9ng33b.jpg"> |   <img src="https://photos.templatetoaster.info/cmf7ca.jpg" > 
+<img src="https://photos.templatetoaster.info/pp3hk4.jpg" > | <img src="https://photos.templatetoaster.info/7nhxst.jpg" > 
+ Move to Narita airport (JL3052)   | Depart from Narita Airport (JL7077)   <br />   to Katunayake Bandaranayake Airport,Sri Lanka
+<img  src="https://photos.templatetoaster.info/40nks4.jpg"> |   <img src="https://photos.templatetoaster.info/yrw2mb.jpg" > 
 
 
 
