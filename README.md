@@ -57,7 +57,7 @@ Professor Kazuaki Tanaka <br />
 
 Kazuyuki Ikura 様　 <br /> 
 Senior Manager Metatechno Inc. Kanagawa,Japan.<br />
-Director of Lanka Nippon Biztech Institute, Sri Lanaka. <br />
+Director of Lanka Nippon Biztech Institute, Sri Lanka. <br />
 
 
    
