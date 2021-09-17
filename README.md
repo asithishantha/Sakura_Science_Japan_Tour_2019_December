@@ -211,8 +211,8 @@ Day 2 |  11 Dec Wed
  10.00-13:00 |  Tech experience @Miraikarn 
 13.00-14.00 | Move to Haneda Airport 
 15:00-17:05 | Move to Fukuoka (JL323) 
-17.00-19.00 | Move to Iizuka (Bus 17:47-18:49) 
-19.00       | Dinner & Go to Iizuka hotel
+17.00-19.00 | Move to Iizuka hotel(Bus 17:47-18:49) 
+19.00       | Dinner & Go back to hotel 
 
 
 Move to Haneda Airport   | Air Check-in 
@@ -222,7 +222,7 @@ Move to Miraikan  |  Tech experience @Miraikarn
 <img  src="https://photos.templatetoaster.info/7j8zec.jpg"> |   <img src="https://photos.templatetoaster.info/0797hx.jpg" > 
 Move to Haneda Airport  |  Move to Fukuoka (JL323) 
 <img  src="https://photos.templatetoaster.info/87wi9k.jpg"> |   <img src="https://photos.templatetoaster.info/opkp86.jpg" > 
-Move to Iizuka (Bus 17:47-18:49)   |  Dinner & Go to Iizuka hotel
+ Move to Iizuka hotel(Bus 17:47-18:49)  |  Dinner &  Go back to hotel 
 <img  src="https://photos.templatetoaster.info/1l73bf.jpg"> |   <img src="https://photos.templatetoaster.info/2sclhj.jpg" > 
 
 
@@ -250,7 +250,7 @@ Move to Kyutech university <br />(Kyushu Institute of Technology)  | Orientation
 
  Day 4   | 13 Dec Fri 
  | :--- | ---: |
-9:00       |      Move to Kyutech School 
+9:00       |      Move to Kyutech university 
  9:30-12:00  | IOT Workshop @Kyutech 
  12.00-13:30| Lunch 
  13:30-17:00  | Workshop Presentation 
@@ -258,7 +258,7 @@ Move to Kyutech university <br />(Kyushu Institute of Technology)  | Orientation
  20:00     |      Go back to the hotel 
  <br />
 
-Move to Kyutech School    |  IOT Workshop @Kyutech 
+Move to Kyutech university    |  IOT Workshop @Kyutech 
 | :--- | ---: | 
 <img src="https://photos.templatetoaster.info/w73vix.jpg" > | <img src="https://github.com/asithishantha/Sakura_Science_Japan_Tour_2019_December/blob/main/iot%20gif.gif"  width="350px" height="197px" >
 Lunch  |  Workshop Presentation 
