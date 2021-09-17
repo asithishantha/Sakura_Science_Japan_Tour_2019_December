@@ -195,7 +195,7 @@ Arrive at Narita Airport (JL7076)  | Move to Musasikosugi (Hotel)
 Lunch | One day internship @Metatechno 
 <img  src="https://photos.templatetoaster.info/bwa8o1.jpg"> |   <img src="https://photos.templatetoaster.info/cmf7ca.jpg" > 
 Welcome Dinner  |  Go back to the hotel
-<img  src="https://photos.templatetoaster.info/e9ab7v.jpg"> |   <img src="https://photos.templatetoaster.info/1l73bf.jpg" > 
+<img  src="https://photos.templatetoaster.info/e9ab7v.jpg"> |   <img src="https://photos.templatetoaster.info/r8ikye.jpg" > 
 
 
 <!-- Day 2 |  11 Dec Wed 
