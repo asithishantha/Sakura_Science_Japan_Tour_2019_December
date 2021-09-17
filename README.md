@@ -42,6 +42,7 @@ Photo Courtsey: Miyuru Kularathne   <br />
 <h4 align="center"> 
 Kyushu Institute of Technology, Iizuka, Fukuoka, Japan. <br />
 Professor Kazuaki Tanaka <br />
+</h4>
 
  <p align="center">
   <img src="https://photos.templatetoaster.info/b4fjl5.jpg" >
