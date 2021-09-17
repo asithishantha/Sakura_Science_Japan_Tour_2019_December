@@ -45,7 +45,7 @@ Professor Kazuaki Tanaka <br />
 </h4>
 
  <p align="center">
-  <img src="https://photos.templatetoaster.info/b4fjl5.jpg" >
+  <img src="https://photos.templatetoaster.info/b4fjl5.jpg" width="199px" height="199px">>
 </p> 
  <br />
  
@@ -63,7 +63,7 @@ Kazuyuki Ikura 様　 <br />
  <br />
    
  <p align="center">
-  <img src="https://photos.templatetoaster.info/upzqvv.jpg" >
+  <img src="https://photos.templatetoaster.info/upzqvv.jpg" width="300px" height="225px">
 </p> 
 
  <br />
