@@ -33,10 +33,22 @@ Asith Ishantha Madurawala        <br />
  <p align="center">
   <img src="https://photos.templatetoaster.info/05aaje.jpg" >
 </p> 
-Photo Courtsey: Miyuru Kularathne   <br />
+Photo Courtsey: Miyuru Kularathne   <br /> 
 
-Connect with [Miyuru Kularathne]           
-  
+<h3 align="center"> 
+ Invited University and the Professor  <br />
+</h3>
+
+<h4 align="center"> 
+Kyushu Institute of Technology, Iizuka, Fukuoka, Japan. <br />
+Professor Kazuaki Tanaka <br />
+
+ <p align="center">
+  <img src="https://photos.templatetoaster.info/b4fjl5.jpg" >
+</p> 
+
+          
+ <br /> 
 
 
 <p align="center">
@@ -281,6 +293,7 @@ Dinner Hakata, Fukuoka    |    Go back to the hotel
 <img src="https://photos.templatetoaster.info/pp3hk4.jpg" > | <img src="https://photos.templatetoaster.info/7nhxst.jpg" > 
  Move to Narita airport (JL3052)   | Depart from Narita Airport (JL7077)   <br />   to Katunayake Bandaranayake Airport,Sri Lanka
 <img  src="https://photos.templatetoaster.info/40nks4.jpg"> |   <img src="https://photos.templatetoaster.info/yrw2mb.jpg" > 
+
 
 
 
