@@ -12,7 +12,7 @@
 
   
   <br />
- <h3 align="center"> 
+<h3 align="center"> 
  Sakura Science Sri Lanka Represented Team  Members <br />
 </h3>
                   
@@ -58,7 +58,7 @@ Professor Kazuaki Tanaka <br />
 Kazuyuki Ikura 様　 <br /> 
 Senior Manager Metatechno Inc. Kanagawa,Japan.<br />
 Director of Lanka Nippon Biztech Institute, Sri Lanka. <br />
-
+</h4>
 
    
  <p align="center">
@@ -122,11 +122,8 @@ Purposes of Sakura Science Exchange Program <br />
 People who come to Japan on Sakura Science Exchange Program will be certified as members of the Sakura Science Club, the alumni association of the Sakura Science Exchange Program.
 
 
-
-
-
-   “ I thought Japan is far beyond my expectations. By looking at Japan with my own eyes, I began to understand the importance 
-     of science and technology after participating Sakura Science Exchange Program. Also, I learnt that, when we think about 
+     “ I thought Japan is far beyond my expectations. By looking at Japan with my own eyes, I began to understand the importance 
+     of science and technology after participating in Sakura Science Exchange Program. Also, I learnt that, when we think about 
      new ideas, and when we try to do something, we must first think about the ethics and common benefit of mankind. I think I have 
      broadened my horizons by participating in this program.”        
      
