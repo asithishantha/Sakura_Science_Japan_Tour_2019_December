@@ -188,11 +188,11 @@ Day 1 | 10 December Tue
 
 Arrive at Narita Airport (JL7076)  | Move to Musasikosugi (Hotel) 
 | :--- | ---: | 
-<img src="https://photos.templatetoaster.info/u72ckh.jpg" > | <img src="https://photos.templatetoaster.info/sj1f5w.jpg" > 
+<img src="68747470733a2f2f70686f746f732e74656d706c617465746f61737465722e696e666f2f753732636b682e6a7067.jpg" > | <img src="68747470733a2f2f70686f746f732e74656d706c617465746f61737465722e696e666f2f3270687066782e6a7067 (1).jpg" > 
 Lunch | One day internship @Metatechno 
-<img  src="https://photos.templatetoaster.info/bwa8o1.jpg"> |   <img src="https://photos.templatetoaster.info/cmf7ca.jpg" > 
+<img  src="68747470733a2f2f70686f746f732e74656d706c617465746f61737465722e696e666f2f396e673333622e6a7067 (1).jpg"> |   <img src="https://photos.templatetoaster.info/cmf7ca.jpg" > 
 Welcome Dinner  |  Go back to the hotel
-<img  src="https://photos.templatetoaster.info/e9ab7v.jpg"> |   <img src="https://photos.templatetoaster.info/r8ikye.jpg" > 
+<img  src="IMG_20191213_193112 (1).jpg"> |   <img src="68747470733a2f2f70686f746f732e74656d706c617465746f61737465722e696e666f2f7970336630612e6a7067 (1) (2).jpg" > 
 
 
 <!-- Day 2 |  11 Dec Wed 
