@@ -31,9 +31,9 @@ Asith Ishantha Madurawala        <br />
  <br />
  
  <p align="center">
-  <img src="https://photos.templatetoaster.info/05aaje.jpg" >
+  <img src="68747470733a2f2f70686f746f732e74656d706c617465746f61737465722e696e666f2f753732636b682e6a7067.jpg" >
 </p> 
-Photo Courtsey: Miyuru Kularathne   <br /> 
+
 
 <h3 align="center"> 
  Invited University and the Professor  <br />
@@ -45,7 +45,7 @@ Professor Kazuaki Tanaka <br />
 </h4>
 
  <p align="center">
-  <img src="https://photos.templatetoaster.info/b4fjl5.jpg" width="199px" height="199px">>
+  <img src="491203.jpg" width="199px" height="199px">>
 </p> 
  <br />
  
@@ -62,7 +62,7 @@ Director of Lanka Nippon Biztech Institute, Sri Lanka. <br />
 
    
  <p align="center">
-  <img src="https://photos.templatetoaster.info/upzqvv.jpg" width="300px" height="225px">
+  <img src="4.jpg" width="300px" height="225px">
 </p> 
 
  <br />
@@ -84,7 +84,7 @@ Director of Lanka Nippon Biztech Institute, Sri Lanka. <br />
 <!--    
   <img src="https://photos.templatetoaster.info/6a40sy.png"  width="600px" height="539px" > -->
   
-  <img src="https://photos.templatetoaster.info/xpa68o.png"  width="450px" height="404px" >
+  <img src="rr.png"  width="450px" height="404px" >
   
   
   
@@ -138,7 +138,7 @@ Certificate of Achievement   <br />
 <br />
  
  <p align="center">
-  <img src="https://photos.templatetoaster.info/aj4z0w.jpg" width="450px" height="333px" >
+  <img src="202109081202461000.jpg" width="450px" height="333px" >
 </p> 
 
  <br />
@@ -157,7 +157,7 @@ copy the following link or press the following image to watch the video..
  <br />
 <div align="center">
       <a href="https://www.youtube.com/watch?v=E1uuD_QntMQ&t=621s">
-         <img src="https://photos.templatetoaster.info/4lyhnc.jpg" width="500px" height="281px">
+         <img src="japan tour dhanej.jpg" width="500px" height="281px">
       </a>
 </div>
  <br />
