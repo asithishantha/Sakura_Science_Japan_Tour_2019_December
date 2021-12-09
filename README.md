@@ -6,7 +6,7 @@
    
 
 <p align="center">
-  <img src="https://photos.templatetoaster.info/7kvpjc.png" ><br />
+  <img src="sakura-ssp-2016-01-removebg-preview.png" ><br />
   
 </p> 
 
