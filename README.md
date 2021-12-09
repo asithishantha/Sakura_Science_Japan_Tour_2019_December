@@ -84,7 +84,7 @@ Director of Lanka Nippon Biztech Institute, Sri Lanka. <br />
 <!--    
   <img src="https://photos.templatetoaster.info/6a40sy.png"  width="600px" height="539px" > -->
   
-  <img src="rr.png"  width="450px" height="404px" >
+  <img src="神奈川県に本社を置くMetatechno Inc。は、1984年の設立以来、組み込みソフトウェアからクラウドソフトウェア、IoTソフトウェアまでさまざまな分野でエンジニアリングサービスを提供してきた。.png"  width="450px" height="404px" >
   
   
   
